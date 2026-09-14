@@ -1,0 +1,9 @@
+.env
+memory.db
+__pycache__/
+*.pyc
+inbox/*
+!inbox/.gitkeep
+docs/*
+!docs/.gitkeep
+.DS_Store
