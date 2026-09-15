@@ -207,7 +207,7 @@ cp .env.example .env
 
 ```dotenv
 # .env
-AZURE_OPENAI_ENDPOINT=https://intelli-dev-foundry-prj-resource.openai.azure.com
+AZURE_OPENAI_ENDPOINT=azure-openai-endpoint
 MODEL=gpt-4.1
 OPENAI_API_VERSION=2025-03-01-preview
 AZURE_OPENAI_API_KEY=your-azure-openai-key
